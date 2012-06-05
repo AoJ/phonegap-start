@@ -2,16 +2,15 @@
 <widget xmlns		= "http://www.w3.org/ns/widgets"
 	xmlns:gap	= "http://phonegap.com/ns/1.0"
 	id		= "com.phonegap.getting.started.custom"
-	version 	= "1.1.0">
+	version 	= "1.0.0">
 
-	<name>PhoneGap</name>
+	<name>PhoneGap2</name>
 
 	<description>
 		A template for getting 
 	</description>
 
-	<author href="http://alunny.github"
-		email="andrew.lunny@e.com">
+	<author>
 		Andrew Lunny
 	</author>
 
